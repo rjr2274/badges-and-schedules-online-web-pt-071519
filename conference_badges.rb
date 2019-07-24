@@ -22,5 +22,3 @@ def printer(array)
    puts participant
  end
 end
-
-binding.pry
